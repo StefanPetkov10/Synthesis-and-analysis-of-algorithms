@@ -19,8 +19,3 @@ Explore a variety of tasks involving arrays and matrices, including finding patt
 
 ### Mathematical Algorithms  
 Dive into essential mathematical problem-solving, such as calculating GCD and working with numerical data, using simple yet powerful techniques tailored for real-world applications.  
-
-## Features  
-- Algorithm synthesis and optimization  
-- Analysis of time and space complexity  
-- Problem-solving using efficient approaches
